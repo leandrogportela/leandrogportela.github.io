@@ -1,78 +1,63 @@
 [{
-        "autor": "Elder Stevenson",
-        "cita": "O Livro de Mórmon é um grande presente de Páscoa.",
-        
-    },
-    {
-        "autor": "Sister Cordon",
-        "cita": "Testificar de Cristo. Nunca perca uma oportunidade de Testificar de Cristo.",
-        
-    },
-    {
-        "autor": "Elder Carl Cook",
-        "cita": "O Senhor nos chamou para fazer. Ele nos dará forças para concluir.",
-        
-    },
-    {
-        "autor": "Elder que orou no fim da sessão",
-        "cita": "Pai Celestial, faça com que os céus se movimentem para nosso bem.",
-        
-    },
-    {
-        "autor": "Elder Gong",
-        "cita": "Os que compreendem a importância da ministração fazem mais pelo trabalho de salvação e os que não compreendem fazem menos.",
-        
-    },
-    {
-        "autor": "Elder Cook",
-        "cita": "Torne-se um farol orientador e mostre onde fica o porto seguro que são as ordenanças e os convênios.",
-        
-    },
-    {
-        "autor": "Elder Haynie",
-        "cita": "Orar humildemente pela Segunda Vinda de Jesus Cristo é um sinal de grande maturidade e confiança espiritual.",
-        
-    },
-    {
-        "autor": "Elder Eyring",
-        "cita": "Guardar os mandamentos de Deus exige mais que obediência. Exige todo coração, poder, mente e força. Caso contrário não receberemos a verdadeira paz.",
-        
-    },
-    {
-        "autor": "Elder Renlund",
-        "cita": "O Poder do Sacerdócio, obtido por meio de convênios, mantém nosso fluxo espiritual em direção à heranças celestiais.",
-        
-    },
-    {
-        "autor": "Elder Meurs",
-        "cita": "O Senhor está atento e ciente de cada questão pessoal, seja ela de qualquer natureza, pela qual estejamos passando.",
-     
-    },
-    {
-        "autor": "Elder Bennett",
-        "cita": "Por meio das bênçãos patriarcais sabemos que Deus e Jesus Cristo estão pessoalmente envolvidos na nossa vida.",
-        
-    },
-    {
-        "autor": "Elder Christiensen",
-        "cita": "O pecado da complacência limita nossa alegria",
-        
-    },
-    {
-        "autor": "Elder Schmutz",
-        "cita": "Construímos relacionamentos com Cristo por meio de Convênios.",
-        
-    },
-    {
-        "autor": "Elder Benjamín de Hoyos",
-        "cita": "Eventos marcantes e de natureza sagrada passam desapercibidos pelo mundo.",
-       
-    },
-    {
-        "autor": "Elder Uchtdorf",
-        "cita": "Assim como uma gota não é suficiente para nutrir uma planta, uma ação de ensinamento isolada não é suficiente para influenciar nossos filhos.",
-       
-    }
+		"autor": "Elder Stevenson",
+		"cita": "O Livro de Mórmon é um grande presente de Páscoa."
+	},
+	{
+		"autor": "Sister Cordon",
+		"cita": "Testificar de Cristo. Nunca perca uma oportunidade de Testificar de Cristo."
+	},
+	{
+		"autor": "Elder Carl Cook",
+		"cita": "O Senhor nos chamou para fazer. Ele nos dará forças para concluir."
+	},
+	{
+		"autor": "Elder que orou no fim da sessão",
+		"cita": "Pai Celestial, faça com que os céus se movimentem para nosso bem."
+	},
+	{
+		"autor": "Elder Gong",
+		"cita": "Os que compreendem a importância da ministração fazem mais pelo trabalho de salvação e os que não compreendem fazem menos."
+	},
+	{
+		"autor": "Elder Cook",
+		"cita": "Torne-se um farol orientador e mostre onde fica o porto seguro que são as ordenanças e os convênios."
+	},
+	{
+		"autor": "Elder Haynie",
+		"cita": "Orar humildemente pela Segunda Vinda de Jesus Cristo é um sinal de grande maturidade e confiança espiritual."
+	},
+	{
+		"autor": "Elder Eyring",
+		"cita": "Guardar os mandamentos de Deus exige mais que obediência. Exige todo coração, poder, mente e força. Caso contrário não receberemos a verdadeira paz."
+	},
+	{
+		"autor": "Elder Renlund",
+		"cita": "O Poder do Sacerdócio, obtido por meio de convênios, mantém nosso fluxo espiritual em direção à heranças celestiais."
+	},
+	{
+		"autor": "Elder Meurs",
+		"cita": "O Senhor está atento e ciente de cada questão pessoal, seja ela de qualquer natureza, pela qual estejamos passando."
+	},
+	{
+		"autor": "Elder Bennett",
+		"cita": "Por meio das bênçãos patriarcais sabemos que Deus e Jesus Cristo estão pessoalmente envolvidos na nossa vida."
+	},
+	{
+		"autor": "Elder Christiensen",
+		"cita": "O pecado da complacência limita nossa alegria"
+	},
+	{
+		"autor": "Elder Schmutz",
+		"cita": "Construímos relacionamentos com Cristo por meio de Convênios."
+	},
+	{
+		"autor": "Elder Benjamín de Hoyos",
+		"cita": "Eventos marcantes e de natureza sagrada passam desapercibidos pelo mundo."
+	},
+	{
+		"autor": "Elder Uchtdorf",
+		"cita": "Assim como uma gota não é suficiente para nutrir uma planta, uma ação de ensinamento isolada não é suficiente para influenciar nossos filhos."
+	}
 
 
 ]
